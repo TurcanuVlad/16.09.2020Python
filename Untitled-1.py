@@ -1,0 +1,7 @@
+print("Turcanu Vlad")
+print("17.07.2004")
+print("Balti")
+print("+37360622611")
+print("Institutia Publica Mihai Eminescu")
+print("Tind spre o meserie bazat peprofilul real, sunt apt de a lucra fizic")
+print("somer")
